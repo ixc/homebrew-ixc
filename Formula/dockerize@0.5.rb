@@ -1,4 +1,4 @@
-class DockerizeAT5 < Formula
+class DockerizeAT05 < Formula
   desc "Utility to simplify running applications in docker containers"
   homepage "https://github.com/jwilder/dockerize"
   url "https://github.com/jwilder/dockerize.git",
