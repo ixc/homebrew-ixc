@@ -1,4 +1,4 @@
-cask 'unity-linux-support-for-editor@2019.3.12f1' do
+cask 'unity-linux-support-for-editor@2019.3' do
   version '2019.3.12f1,84b23722532d'
   sha256 'dcae337a06d0458fe9478837e141414085393f67864a5c0935fe43fac4b4403f'
 

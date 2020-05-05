@@ -1,4 +1,4 @@
-cask 'unity-ios-support-for-editor@2019.3.12f1' do
+cask 'unity-ios-support-for-editor@2019.3' do
   version '2019.3.12f1,84b23722532d'
   sha256 '3ec8114e4589a1e6760b393ed3fda6694acacfa928e37bd31ba61f2e5d3fa536'
 

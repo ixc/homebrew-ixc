@@ -1,4 +1,4 @@
-cask 'unity-webgl-support-for-editor@2019.3.12f1' do
+cask 'unity-webgl-support-for-editor@2019.3' do
   version '2019.3.12f1,84b23722532d'
   sha256 '868f13d2e6b311e0e664c29184c07843d306bf9b471484d0227b35fdb06e0ad7'
 

@@ -1,4 +1,4 @@
-cask 'unity-windows-support-for-editor@2019.3.12f1' do
+cask 'unity-windows-support-for-editor@2019.3' do
   version '2019.3.12f1,84b23722532d'
   sha256 'b2965a200047a8d4f973eb10de913b5b3ea7bccbec3b616b97ec5ffdada19539'
 

@@ -1,4 +1,4 @@
-cask 'unity@2019.3.12f1' do
+cask 'unity@2019.3' do
   version '2019.3.12f1,84b23722532d'
   sha256 '411ed442c89e915c31fa89ee2c2b2ef85e45ab27cab0a714c923e152618069d4'
 
