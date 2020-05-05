@@ -9,7 +9,7 @@ cask 'unity-linux-support-for-editor@2019.3' do
 
   depends_on cask: 'unity@2019.3'
 
-  pkg "UnitySetup-Linux-Support-for-Editor-#{version.before_comma}.pkg"
+  pkg "UnitySetup-Linux-Mono-Support-for-Editor-#{version.before_comma}.pkg"
 
   uninstall pkgutil: 'com.unity3d.LinuxStandaloneSupport'
 end
