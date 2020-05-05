@@ -7,7 +7,7 @@ cask 'unity-webgl-support-for-editor@2019.3' do
   name 'Unity WebGL Build Support'
   homepage 'https://unity3d.com/unity/'
 
-  depends_on cask: 'unity'
+  depends_on cask: 'unity@2019.3'
 
   pkg "UnitySetup-WebGL-Support-for-Editor-#{version.before_comma}.pkg"
 

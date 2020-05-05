@@ -7,7 +7,7 @@ cask 'unity-linux-support-for-editor@2019.3' do
   name 'Unity Linux Build Support'
   homepage 'https://unity3d.com/unity/'
 
-  depends_on cask: 'unity'
+  depends_on cask: 'unity@2019.3'
 
   pkg "UnitySetup-Linux-Support-for-Editor-#{version.before_comma}.pkg"
 
