@@ -1,4 +1,4 @@
-cask 'postgres' do
+cask 'postgres-all-versions' do
   version '2.3.3e'
   sha256 'e95314aedf7a17562894b9e451fc8f35792fbf76523aecbde39700b74c872d95'
 
